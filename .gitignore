@@ -1,0 +1,3 @@
+# Ignore ML model files
+model.pkl
+*.pkl
